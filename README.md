@@ -1,5 +1,5 @@
 # EXO1
-#Le Pem key devrait être créer pat Terraform.  
+#Le Pem key devrait être créer par Terraform.  
 
 
 #le port ssh est le seul port qui doit être autorisé.
